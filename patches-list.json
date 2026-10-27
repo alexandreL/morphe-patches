@@ -1,5 +1,33 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "0.0.0",
-  "patches": []
+  "version": "1.0.0-dev.1",
+  "patches": [
+    {
+      "name": "Unlock Asana Rebel Pro",
+      "description": "Makes the app always behave as if an active subscription exists: premium workouts, yoga stories, recipes, songs and downloads are unlocked.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.asanayoga.asanarebel",
+          "name": "Asana Rebel",
+          "description": null,
+          "apkFileType": "APK",
+          "appIconColor": "#0B0B0B",
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "6.29.0.7409",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    }
+  ]
 }
