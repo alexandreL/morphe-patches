@@ -15,9 +15,9 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0-dev.1](https://github.com/alexandreL/morphe-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.0-dev.2](https://github.com/alexandreL/morphe-patches/releases/tag/v1.0.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
 <details open>
-<summary>📦 Asana Rebel&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<summary>📦 Asana Rebel&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -27,6 +27,8 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
+| [Skip privacy consent screen](#skip-privacy-consent-screen) | A fresh guest account has no privacyPolicy/termsOfService flags, so the app would open the consent screen right after the splash. This disables that check. |  |
+| [Skip sign up and login](#skip-sign-up-and-login) | Lands on the home screen instead of the onboarding funnel: the app keeps using the anonymous guest account it already creates in the background. |  |
 | [Unlock Asana Rebel Pro](#unlock-asana-rebel-pro) | Makes the app always behave as if an active subscription exists: premium workouts, yoga stories, recipes, songs and downloads are unlocked. |  |
 
 </details>

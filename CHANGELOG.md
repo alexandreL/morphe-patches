@@ -1,3 +1,9 @@
+## [1.0.0-dev.2](https://github.com/alexandreL/morphe-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-10-27)
+
+### ✨ New Features
+
+* skip sign up/login and privacy consent screen ([90790d9](https://github.com/alexandreL/morphe-patches/commit/90790d986fc41b5267ed24167f882f9a0e692eea))
+
 ## 1.0.0-dev.1 (2026-10-27)
 
 ### 🐛 Bug Fixes
