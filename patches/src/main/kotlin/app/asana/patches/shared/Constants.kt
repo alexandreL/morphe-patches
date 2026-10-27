@@ -9,8 +9,8 @@ object Constants {
         name = "Asana Rebel",
         packageName = "com.asanayoga.asanarebel",
         apkFileType = ApkFileType.APK,
-        // Icon background color of the app, shown by Morphe Manager.
-        appIconColor = 0xFF0B0B0B,
+        // Icon background color of the app, shown by Morphe Manager. Must be 0xRRGGBB.
+        appIconColor = 0x0B0B0B,
         targets = listOf(
             // Version the patch was written and tested against.
             AppTarget(version = "6.29.0.7409")
